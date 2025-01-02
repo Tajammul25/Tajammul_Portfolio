@@ -39,3 +39,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Allow `docs` folder for GitHub Pages deployment
+!docs/
